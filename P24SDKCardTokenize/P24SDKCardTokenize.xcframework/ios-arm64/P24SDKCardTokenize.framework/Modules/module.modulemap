@@ -1,0 +1,8 @@
+framework module P24SDKCardTokenize {
+    umbrella header "P24SDKCardTokenize.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
